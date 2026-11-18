@@ -1,0 +1,309 @@
+{
+  "source_pdf": "ECI_CompanyProfiles.pdf (user-supplied company profile)",
+  "notes": "All files are direct embedded-image extractions. Transparent PNGs combine the PDF image and soft-mask streams; WebP files retain original pixel dimensions and use quality 88. No generated imagery or creative editing was used.",
+  "assets": [
+    {
+      "path": "public/images/eci-logo-transparent.png",
+      "width": 226,
+      "height": 201,
+      "source_page": 1,
+      "caption": "ECI corporate mark extracted with its original transparency mask.",
+      "category": "brand",
+      "partner_names": []
+    },
+    {
+      "path": "public/images/partners-core-group.png",
+      "width": 1336,
+      "height": 790,
+      "source_page": 10,
+      "caption": "Core partner logo composition from the partner page.",
+      "category": "partner-logo",
+      "partner_names": [
+        "Panasonic",
+        "Dell",
+        "Allied Telesis",
+        "LG",
+        "Fluke Networks",
+        "AMP NETCONNECT",
+        "i-PRO",
+        "Microsoft Windows",
+        "TOA",
+        "APC by Schneider Electric",
+        "Schneider Electric",
+        "Interlink Communication",
+        "Cisco",
+        "Ubiquiti"
+      ]
+    },
+    {
+      "path": "public/images/partner-panasonic.png",
+      "width": 570,
+      "height": 99,
+      "source_page": 10,
+      "caption": "Panasonic partner logo cropped from the original embedded page 10 composition.",
+      "category": "partner-logo",
+      "partner_names": ["Panasonic"]
+    },
+    {
+      "path": "public/images/partner-dell.png",
+      "width": 234,
+      "height": 232,
+      "source_page": 10,
+      "caption": "Dell partner logo cropped from the original embedded page 10 composition.",
+      "category": "partner-logo",
+      "partner_names": ["Dell"]
+    },
+    {
+      "path": "public/images/partner-allied-telesis.png",
+      "width": 216,
+      "height": 92,
+      "source_page": 10,
+      "caption": "Allied Telesis partner logo cropped from the original embedded page 10 composition.",
+      "category": "partner-logo",
+      "partner_names": ["Allied Telesis"]
+    },
+    {
+      "path": "public/images/partner-lg.png",
+      "width": 242,
+      "height": 106,
+      "source_page": 10,
+      "caption": "LG partner logo cropped from the original embedded page 10 composition.",
+      "category": "partner-logo",
+      "partner_names": ["LG"]
+    },
+    {
+      "path": "public/images/partner-fluke-networks.png",
+      "width": 300,
+      "height": 100,
+      "source_page": 10,
+      "caption": "Fluke Networks partner logo cropped from the original embedded page 10 composition.",
+      "category": "partner-logo",
+      "partner_names": ["Fluke Networks"]
+    },
+    {
+      "path": "public/images/partner-amp-netconnect.png",
+      "width": 150,
+      "height": 64,
+      "source_page": 10,
+      "caption": "AMP NETCONNECT partner logo cropped from the original embedded page 10 composition.",
+      "category": "partner-logo",
+      "partner_names": ["AMP NETCONNECT"]
+    },
+    {
+      "path": "public/images/partner-i-pro.png",
+      "width": 384,
+      "height": 126,
+      "source_page": 10,
+      "caption": "i-PRO partner logo cropped from the original embedded page 10 composition.",
+      "category": "partner-logo",
+      "partner_names": ["i-PRO"]
+    },
+    {
+      "path": "public/images/partner-microsoft-windows.png",
+      "width": 134,
+      "height": 122,
+      "source_page": 10,
+      "caption": "Microsoft Windows partner logo cropped from the original embedded page 10 composition.",
+      "category": "partner-logo",
+      "partner_names": ["Microsoft Windows"]
+    },
+    {
+      "path": "public/images/partner-toa.png",
+      "width": 173,
+      "height": 66,
+      "source_page": 10,
+      "caption": "TOA partner logo cropped from the original embedded page 10 composition.",
+      "category": "partner-logo",
+      "partner_names": ["TOA"]
+    },
+    {
+      "path": "public/images/partner-apc.png",
+      "width": 218,
+      "height": 102,
+      "source_page": 10,
+      "caption": "APC by Schneider Electric partner logo cropped from the original embedded page 10 composition.",
+      "category": "partner-logo",
+      "partner_names": ["APC by Schneider Electric"]
+    },
+    {
+      "path": "public/images/partner-schneider-electric.png",
+      "width": 558,
+      "height": 208,
+      "source_page": 10,
+      "caption": "Schneider Electric partner logo cropped from the original embedded page 10 composition.",
+      "category": "partner-logo",
+      "partner_names": ["Schneider Electric"]
+    },
+    {
+      "path": "public/images/partner-interlink.png",
+      "width": 136,
+      "height": 81,
+      "source_page": 10,
+      "caption": "Interlink Communication partner logo cropped from the original embedded page 10 composition.",
+      "category": "partner-logo",
+      "partner_names": ["Interlink Communication"]
+    },
+    {
+      "path": "public/images/partner-cisco.png",
+      "width": 133,
+      "height": 81,
+      "source_page": 10,
+      "caption": "Cisco partner logo cropped from the original embedded page 10 composition.",
+      "category": "partner-logo",
+      "partner_names": ["Cisco"]
+    },
+    {
+      "path": "public/images/partner-ubiquiti.png",
+      "width": 178,
+      "height": 86,
+      "source_page": 10,
+      "caption": "Ubiquiti partner logo cropped from the original embedded page 10 composition.",
+      "category": "partner-logo",
+      "partner_names": ["Ubiquiti"]
+    },
+    {
+      "path": "public/images/partner-thales.png",
+      "width": 1152,
+      "height": 137,
+      "source_page": 10,
+      "caption": "Thales partner logo.",
+      "category": "partner-logo",
+      "partner_names": ["Thales"]
+    },
+    {
+      "path": "public/images/partner-cambridge-pixel.png",
+      "width": 538,
+      "height": 126,
+      "source_page": 10,
+      "caption": "Cambridge Pixel partner logo.",
+      "category": "partner-logo",
+      "partner_names": ["Cambridge Pixel"]
+    },
+    {
+      "path": "public/images/partner-gards.png",
+      "width": 576,
+      "height": 408,
+      "source_page": 10,
+      "caption": "GARDS partner logo on its original dark field.",
+      "category": "partner-logo",
+      "partner_names": ["GARDS"]
+    },
+    {
+      "path": "public/images/partner-luxriot.png",
+      "width": 415,
+      "height": 104,
+      "source_page": 10,
+      "caption": "Luxriot partner logo.",
+      "category": "partner-logo",
+      "partner_names": ["Luxriot"]
+    },
+    {
+      "path": "public/images/partner-mirasys.png",
+      "width": 614,
+      "height": 144,
+      "source_page": 10,
+      "caption": "Mirasys partner logo.",
+      "category": "partner-logo",
+      "partner_names": ["Mirasys"]
+    },
+    {
+      "path": "public/images/mobile-command-center-exterior.webp",
+      "width": 1613,
+      "height": 1210,
+      "source_page": 17,
+      "caption": "Thai Maritime Enforcement Command Center mobile command vehicle and project team.",
+      "category": "project-image",
+      "partner_names": []
+    },
+    {
+      "path": "public/images/mobile-command-center-console.webp",
+      "width": 1306,
+      "height": 980,
+      "source_page": 18,
+      "caption": "Operator console inside the mobile command vehicle.",
+      "category": "project-image",
+      "partner_names": []
+    },
+    {
+      "path": "public/images/surveillance-radar-tower.webp",
+      "width": 908,
+      "height": 1210,
+      "source_page": 21,
+      "caption": "Outdoor surveillance radar tower.",
+      "category": "project-image",
+      "partner_names": []
+    },
+    {
+      "path": "public/images/mobile-surveillance-operator.webp",
+      "width": 1024,
+      "height": 768,
+      "source_page": 33,
+      "caption": "Field operator using the mobile surveillance system.",
+      "category": "project-image",
+      "partner_names": []
+    },
+    {
+      "path": "public/images/thales-radar-project-team.webp",
+      "width": 1034,
+      "height": 776,
+      "source_page": 38,
+      "caption": "Thales surveillance radar project delegation.",
+      "category": "project-image",
+      "partner_names": []
+    },
+    {
+      "path": "public/images/defense-security-2025-handoff.webp",
+      "width": 1320,
+      "height": 990,
+      "source_page": 50,
+      "caption": "ECI booth presentation at Defense & Security 2025.",
+      "category": "project-image",
+      "partner_names": []
+    },
+    {
+      "path": "public/images/defense-security-2025-booth.webp",
+      "width": 1613,
+      "height": 1210,
+      "source_page": 51,
+      "caption": "Wide view of the ECI exhibition booth at Defense & Security 2025.",
+      "category": "project-image",
+      "partner_names": []
+    },
+    {
+      "path": "public/images/training-classroom-wide.webp",
+      "width": 1639,
+      "height": 1229,
+      "source_page": 52,
+      "caption": "Wide classroom view during an ECI training session.",
+      "category": "project-image",
+      "partner_names": []
+    },
+    {
+      "path": "public/images/training-session-participants.webp",
+      "width": 1460,
+      "height": 1095,
+      "source_page": 53,
+      "caption": "Participants attending an ECI technical training session.",
+      "category": "project-image",
+      "partner_names": []
+    },
+    {
+      "path": "public/images/cambridge-pixel-radar-software.png",
+      "width": 800,
+      "height": 588,
+      "source_page": 39,
+      "caption": "Cambridge Pixel radar visualization software interface.",
+      "category": "project-image",
+      "partner_names": ["Cambridge Pixel"]
+    },
+    {
+      "path": "public/images/thales-surveillance-radar-equipment.webp",
+      "width": 192,
+      "height": 263,
+      "source_page": 38,
+      "caption": "Thales surveillance radar equipment; included as a supporting source image despite its limited embedded resolution.",
+      "category": "supporting-image",
+      "partner_names": ["Thales"]
+    }
+  ]
+}

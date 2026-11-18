@@ -1,0 +1,3 @@
+# ECI visual system
+
+White-led company site with broad navy photographic opening, five-link area strip, open image-led product directory, pale-blue company story and clear blue contact band. Original red ECI mark extracted from PDF. Deep blue #123b64, primary blue #165b9a, body #123451, supporting text #50677a, pale blue #eef4f8. Logo red approx #fe0000; darker red #d91c19 on enquiry buttons ensures white text contrast. Local Barlow regular/medium/semibold. Responsive display headings max 90px; body 17px. Content width 1480px with fluid gutters. Square image fields, thin rules, no decorative icon tiles. Two-column catalogue grids on small screens; mobile header disclosure; horizontal area links. Real PDF project photos; representative catalogue images labelled.
